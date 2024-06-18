@@ -350,4 +350,4 @@ Time_Relative_sf Duration_sf Observation Behavior       Event…¹
 
 The output above is cut-off, but this is what the function output would look like if called in the R console.
 
-**Thank you for your interest in ccber and ecber! If you have any questions regarding the package, please email us at eugarte@ucdavis.edu or cmukherjee@ucdavis.edu.**
+**Thank you for your interest in ccber and ecber! If you have any questions regarding the package, please email us at eu2082@nyu.edu or cmukherjee@ucdavis.edu.**
